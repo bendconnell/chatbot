@@ -1,0 +1,11 @@
+{
+  "name": "copilot-bot-test",
+  "version": "1.0.0",
+  "description": "Dummy site to test Microsoft Copilot Studio bot widget",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Static site - no server needed'"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
